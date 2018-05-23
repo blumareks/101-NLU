@@ -12,8 +12,8 @@ This can be done in almost any language of your choice using Watson Developer Cl
 
 ## instructions
 0. prerequisit:
-- IBM Cloud account
-- IBM Cloud CLI: [ibmcloud cli](https://console.bluemix.net/docs/cli/reference/bluemix_cli/get_started.html#getting-started)
+- [IBM Cloud account](https://ibm.biz/BdZVYb)
+- [IBM Cloud CLI: ibmcloud cli](https://console.bluemix.net/docs/cli/reference/bluemix_cli/get_started.html#getting-started)
 
 1.	Clone the Hacker News-NLU repository from GitHub: 
 ``$ git clone https://github.com/IBM/Hackernews-NLU.git``
