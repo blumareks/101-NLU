@@ -1,7 +1,7 @@
 # 101-NLU
 This is 101 workshop on Natural Language Understanding with Watson. If you like it give me a star.
 
-##Intro
+## Intro
 In this example you will analyze Hacker news by using the IBM Watson Natural Language Understanding service in the IBM Cloud. It is based on the code pattern: https://github.com/IBM/Hackernews-NLU
 
 The Watson Natural Language Understanding (NLU) service can be used for advanced text analytics, including uncovering insights from structured and unstructured data, understanding sentiment and emotion, and interpreting multiple languages.
@@ -10,7 +10,7 @@ You will add the Watson service to the IBM Kitura web application to demonstrate
 You will use an existing Swift-based developer pattern (https://github.com/IBM/Hackernews-NLU) that installs Watson NLU and connects it to a popular news site, Hacker News, all running in Swift. 
 This can be done in almost any language of your choice using Watson Developer Cloud SDKs - https://github.com/watson-developer-cloud - however this example runs in Swift.
 
-##setup
+## instructions
 0. prerequisit:
 - IBM Cloud account
 - IBM Cloud CLI: [ibmcloud cli](https://console.bluemix.net/docs/cli/reference/bluemix_cli/get_started.html#getting-started)
