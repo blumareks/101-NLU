@@ -28,7 +28,7 @@ The first simple example is based on the Node.red - the super simple way of codi
 - you need to deploy the flow with the updated link
 
 # Example 2
-In this example you will analyze Hacker news by using the IBM Watson Natural Language Understanding service in the IBM Cloud. 
+In this example you will analyze Hacker news by using the IBM Watson Natural Language Understanding service in the IBM Cloud. This example was described in details here as the [code pattern: https://developer.ibm.com/code/patterns/use-swift-interpret-unstructured-data-hacker-news/](https://developer.ibm.com/code/patterns/use-swift-interpret-unstructured-data-hacker-news/)
 
 You will add the Watson service to the IBM Kitura web application to demonstrate how to add a new dimension to text analysis from Kitura.
 You will use an existing Swift-based developer pattern (https://github.com/IBM/Hackernews-NLU) that installs Watson NLU and connects it to a popular news site, Hacker News, all running in Swift. 
