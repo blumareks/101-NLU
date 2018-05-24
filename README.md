@@ -39,6 +39,8 @@ This can be done in almost any language of your choice using Watson Developer Cl
 - [IBM Cloud account](https://ibm.biz/BdZVYb)
 - [IBM Cloud CLI: ibmcloud cli](https://console.bluemix.net/docs/cli/reference/bluemix_cli/get_started.html#getting-started)
 
+You can test it here: https://hackernewsnlu-multilateral-pinweed.mybluemix.net/
+
 1.	Clone the Hacker News-NLU repository from GitHub: 
 ``$ git clone https://github.com/IBM/Hackernews-NLU.git``
 
